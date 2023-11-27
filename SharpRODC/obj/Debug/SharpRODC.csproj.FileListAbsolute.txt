@@ -1,0 +1,11 @@
+C:\Users\whoami\source\repos\SharpRODC\SharpRODC\bin\Debug\SharpRODC.exe.config
+C:\Users\whoami\source\repos\SharpRODC\SharpRODC\obj\Debug\SharpRODC.csproj.AssemblyReference.cache
+C:\Users\whoami\source\repos\SharpRODC\SharpRODC\obj\Debug\SharpRODC.csproj.CoreCompileInputs.cache
+C:\Users\whoami\source\repos\SharpRODC\SharpRODC\obj\Debug\SharpRODC.exe
+C:\Users\whoami\source\repos\SharpRODC\SharpRODC\obj\Debug\SharpRODC.pdb
+C:\Users\whoami\Desktop\SharpRODC\SharpRODC\bin\Debug\SharpRODC.exe.config
+C:\Users\whoami\Desktop\SharpRODC\SharpRODC\obj\Debug\SharpRODC.csproj.AssemblyReference.cache
+C:\Users\whoami\Desktop\SharpRODC\SharpRODC\obj\Debug\SharpRODC.csproj.SuggestedBindingRedirects.cache
+C:\Users\whoami\Desktop\SharpRODC\SharpRODC\obj\Debug\SharpRODC.csproj.CoreCompileInputs.cache
+C:\Users\whoami\Desktop\SharpRODC\SharpRODC\obj\Debug\SharpRODC.exe
+C:\Users\whoami\Desktop\SharpRODC\SharpRODC\obj\Debug\SharpRODC.pdb
